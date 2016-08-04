@@ -1,0 +1,30 @@
+_repo: The-Ruby-of-Kishmoor_3687
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: A run-in with a mysterious woman sets off a series of events that compel
+  protagonist Jonathan Rugg to undertake a globe-spanning quest for a renowned & ndash;
+  and quite possibly cursed & ndash; jewel. Along the way, he encounters all manner
+  of adversity and nefarious characters & ndash; and learns a lot about his own mettle
+  and strength in the process.
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Ruby of Kishmoor
+url: http://www.gutenberg.org/ebooks/3687
