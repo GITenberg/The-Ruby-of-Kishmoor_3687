@@ -1,5 +1,8 @@
 _repo: The-Ruby-of-Kishmoor_3687
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pyle, Howard
@@ -13,6 +16,8 @@ description: A run-in with a mysterious woman sets off a series of events that c
   and quite possibly cursed & ndash; jewel. Along the way, he encounters all manner
   of adversity and nefarious characters & ndash; and learns a lot about his own mettle
   and strength in the process.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3687#The-Ruby-of-Kishmoor
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
